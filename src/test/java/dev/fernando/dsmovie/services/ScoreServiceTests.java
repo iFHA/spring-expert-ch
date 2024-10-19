@@ -20,7 +20,6 @@ import dev.fernando.dsmovie.entities.UserEntity;
 import dev.fernando.dsmovie.repositories.MovieRepository;
 import dev.fernando.dsmovie.repositories.ScoreRepository;
 import dev.fernando.dsmovie.services.exceptions.ResourceNotFoundException;
-import dev.fernando.dsmovie.tests.MovieFactory;
 import dev.fernando.dsmovie.tests.ScoreFactory;
 import dev.fernando.dsmovie.tests.UserFactory;
 
